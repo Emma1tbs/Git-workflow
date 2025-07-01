@@ -1,1 +1,1 @@
-Print "Hello world"
+Napolean hill and Joseph murphy
